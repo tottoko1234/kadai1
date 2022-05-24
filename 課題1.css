@@ -74,12 +74,15 @@ footer {
   }
   
   .contents-box {
-    margin: 0 auto 50px auto;
+    width: 90%;
+    margin: 0 auto 20px auto;
   }
 
   .contents-box:last-child {
     margin-right: auto;
-    margin-bottom: 0;
   }
   
+  .content-visual-1 {
+    height: 150px;
+  }
 }
